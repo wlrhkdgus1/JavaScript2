@@ -1,0 +1,4 @@
+"https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js" 제이쿼리도 최신버전으로 해야지 에러가 안뜨고
+실제 홈페이지를 만들때던 테스트용이아니면 다운받고 사용하도록 . 아니면 버전이 바뀔때마다 바꿔줘야됨.
+
+https://amarans.tistory.com/47
